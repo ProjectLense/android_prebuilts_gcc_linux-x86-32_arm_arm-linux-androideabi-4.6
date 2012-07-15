@@ -10,10 +10,14 @@ Usage
 
 - Make sure I89ed0f00eda1a0bebbc35f39af4bbf0e97f6fade from CyanogenMod is
 <<<<<<< HEAD
+<<<<<<< HEAD
   applied to your build/ directory (see http://review.cyanogenmod.com/19152).
 =======
   applied to your build/ directory
 >>>>>>> 0ea9973... Add README
+=======
+  applied to your build/ directory (see http://review.cyanogenmod.com/19152).
+>>>>>>> d35d56d... Add URL to CM's gerrit to README
 
 
 Building
