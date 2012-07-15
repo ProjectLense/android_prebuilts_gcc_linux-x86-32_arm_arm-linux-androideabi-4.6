@@ -38,4 +38,4 @@ dlopen=''
 dlpreopen=''
 
 # Directory that this library needs to be installed in:
-libdir='/usr/local/libexec/gcc/arm-linux-androideabi/4.6.x-google'
+libdir='/home/yath/sgs/cmsrc/ndk/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86/libexec/gcc/arm-linux-androideabi/4.6.x-google'
