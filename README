@@ -9,7 +9,11 @@ Usage
  to your .repo/local_manifest.xml
 
 - Make sure I89ed0f00eda1a0bebbc35f39af4bbf0e97f6fade from CyanogenMod is
+<<<<<<< HEAD
   applied to your build/ directory (see http://review.cyanogenmod.com/19152).
+=======
+  applied to your build/ directory
+>>>>>>> 0ea9973... Add README
 
 
 Building
